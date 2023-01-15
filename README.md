@@ -3,7 +3,7 @@
 
 
 _Hey my name is Belle, once a Fashion student now a developer, I decided to make the transition because once you build your first project there nothing like looking back
-at what you've accomplished. I'm currently enrolled at School Of Code learning all things Full-stack with UX/UI make a few appearances.My aim is to build
+at what you've accomplished. I'm currently enrolled at School Of Code learning all things Full-stack with UX/UI making a few appearances.My aim is to build
 projects that are accessible, elevate problems, have the user at the heart of it and  bring communities together (and also push myself as a new developer)._
 
 
