@@ -11,15 +11,21 @@ projects that are accessible, elevate problems, have the user at the heart of it
 
 **_<img alt="/" src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-sparkles-72dpi-forPersonalUseOnly.gif" width="25">I'm currently learning<img alt="/" src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-sparkles-72dpi-forPersonalUseOnly.gif" width="25">_**
 
--c#  -Tailwind  -Boostrap  -Next.js  -Gatsby  -MongoDB
-
-
+<ul>  
+  <li>c#</li>
+  <li>Tailwind</li>
+  <li>bootstrap</li>
+  <li>Next.js </li>
+  <li>Gatsby</li>
+  <li>Node.Js</li>
+  <li>MongoDB</li>
+</ul>
 
 
 **_<img alt="/" src="https://cdn3.emoji.gg/emojis/1303_flower.gif" width="20">Skills<img alt="/" src="https://cdn3.emoji.gg/emojis/1303_flower.gif" width="20">_**
 
 <ul>  
-  <li>TypeScrip</li>
+  <li>TypeScript</li>
   <li>JavaScript</li>
   <li>HTML5</li>
   <li>CSS</li>
@@ -27,7 +33,7 @@ projects that are accessible, elevate problems, have the user at the heart of it
   <li>Node.Js</li>
   <li>Express</li>
   <li>PostgreSQL</li>
-  <li>FirebaseL</li>
+  <li>Firebase</li>
 </ul>
 
 
