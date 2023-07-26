@@ -33,6 +33,13 @@
 <br/>`Photoshop`, `InDesign`, `Illustrator`, `Premier Pro`, `Figma`,
 
 
+## Projects
+
+|  Project Name |  Tech Used                                                    |     Repo here!                                                    |      Demo           |
+| ----------| ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
+| Circles  | Next, React, Tailwind CSS, Prisma, PostgreSQL, Cypress |  [Github](https://github.com/B2ella/circles_app) | [Demo](https://circlesapp.netlify.app/) |
+| The Same Page | React, Tailwind CSS, PostgreSQL, Express, Cypress, Vercel, Netlify |  [Github](https://github.com/B2ella/Same-Page) | [Demo](https://same-page.vercel.app/) |
+| Todays Times  |  React, Styled Components, News API, Framer motion, Netlify |  [Github](https://github.com/B2ella/Todays-times) | [Demo](https://todays-times.netlify.app/) |
 
 
 ## Get in touch! <img alt="/" src="https://media.tenor.com/LtF6lgB8FdsAAAAj/mochi-peach.gif" width="50">
