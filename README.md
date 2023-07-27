@@ -1,4 +1,8 @@
+<div align="center"> 
+  
 # **Isabelle Paisley-Francis** 
+https://issyfrancis.netlify.app/
+</div>
 
 <img alt="/" src="/banner.png">
 
@@ -6,8 +10,10 @@
 
 
 
-
+<div align="center">
+  
 **Hey, my name is Belle, once a Fashion student now a developer, I decided to make the transition because once you build your first project there nothing like looking back at what you've accomplished. I'm recently graduated from School Of Code where I learned all things Full-stack with UX/UI making a few appearances. My aim is to build projects that are accessible, elevate problems, have the user at the heart of it and  bring communities together (and also push myself as a new developer).**
+</div>
 
 ## **Aspirations:** 
 **I aspired to be a Frontend and UI developer to facilitate my love for both frontend development and UI/ UX.**
@@ -33,6 +39,7 @@
 <br/>`Photoshop`, `InDesign`, `Illustrator`, `Premier Pro`, `Figma`,
 
 
+
 ## Projects
 
 |  Project Name |  Tech Used                                                    |     Repo here!                                                    |      Demo           |
@@ -46,3 +53,4 @@
 This is a bit forward of you, but you can contact me at:<br/>
 <br/>IsabellaRebecca@live.co.uk
 <br/>https://www.linkedin.com/in/isabelle-francis-paisley-b66611128/
+
